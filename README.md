@@ -1,6 +1,6 @@
 # Case Study : Espousal-Clings - A Musician Booking App for a Wedding Venue.
 
-# My Role : <i> Sole contributor and responsible for the entire case-study journey.</i>
+<b>My Role : <i> Sole contributor and responsible for the entire case-study journey.</i> </b>
 
 # Background
 Espousal Clings is a booking application that connects wedding venues with live musicians for their events. The application was created to simplify the process of finding and booking musicians, and to ensure a seamless experience for both venues and musicians.
