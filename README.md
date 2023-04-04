@@ -1,4 +1,5 @@
-# Case Study : Espousal-Clings - A Musician Booking App for a Wedding Venue.
+# Case Study 
+# "Espousal Clings" - A Musician Booking App for a Wedding Venue.
 
 <b>My Role : <i> Sole contributor and responsible for the entire case-study journey.</i> </b>
 
