@@ -1,4 +1,4 @@
-# Case Study 
+# Case Study <a href = "https://docs.google.com/presentation/d/e/2PACX-1vQ3iCR4QJZOGgYswy6AV0VkHsm6bauWI_X3Nupo-f3yOVT5EzwVxV3uhWHJap9YlKnna--_yWAjoMJM/pub?start=false&loop=false&delayms=3000">(Published Link) </a>
 # "Espousal Clings" - A Musician Booking App for a Wedding Venue.
 
 <b>My Role : <i> Sole contributor and responsible for the entire case-study journey.</i> </b>
