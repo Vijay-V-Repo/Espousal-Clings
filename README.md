@@ -13,12 +13,25 @@ Based on our research, we developed user personas for both wedding venues and mu
 We created user flows for both wedding venues and musicians to map out the process of using the application. These user flows helped us to identify potential pain points and areas for improvement in the user experience.
 
 # Wireframes
+
+
+
 Next, we developed low-fidelity wireframes to visualize the layout and structure of the application. These wireframes were iterated upon and refined through user testing and feedback.
 
 # High-Fidelity Mockups
+
+![Espousal Clings - Musician Booking App _ Low-Fidelity Prototype](https://user-images.githubusercontent.com/74922968/229909404-b0225e7d-0901-4878-938c-1cc1ccc3e29d.png)
+
+
 Once the wireframes were finalized, we created high-fidelity mockups that incorporated branding and visual design. These mockups were used to test the usability and functionality of the application with real users.
 
 # Prototyping
+
+<a href="https://www.figma.com/proto/0OMpHZe6OMBZXLifgTFXGJ/Espousal-Clings---Musician-Booking-App-%3A-Low-Fidelity-Prototype?node-id=8-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=8%3A2&show-proto-sidebar=1"> Figma Prototype Link</a>
+
+![image](https://user-images.githubusercontent.com/74922968/229909287-7be24fd9-35ec-4f0d-8549-c90099b0dfad.png)
+
+
 We developed a clickable prototype that allowed users to interact with the application and test its features and functionality. This prototype was used for further user testing and feedback.
 
 # User Testing
