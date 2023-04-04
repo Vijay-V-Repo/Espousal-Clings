@@ -66,4 +66,6 @@ After several rounds of iteration and user testing, we launched the final produc
 
 ![image](https://user-images.githubusercontent.com/74922968/229914897-956518d3-a229-4085-966d-85f87b903bbe.png)
 
+<a href="https://www.figma.com/proto/0OMpHZe6OMBZXLifgTFXGJ/Espousal-Clings---Musician-Booking-App-%3A-Low-Fidelity-Prototype?node-id=69-2223&scaling=scale-down&page-id=0%3A1&starting-point-node-id=69%3A2223&show-proto-sidebar=1"> Link for the High-Fidelity Prototype</a>
+
 The final product was well-received by both wedding venues and musicians, who praised its ease of use and effectiveness in streamlining the booking process. The application has seen significant adoption among its target user base, and has helped to make the process of booking live music for weddings a more enjoyable and seamless experience.
