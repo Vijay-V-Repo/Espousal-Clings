@@ -64,6 +64,6 @@ After several rounds of iteration and user testing, we launched the final produc
 
 # Results
 
-![image](https://user-images.githubusercontent.com/74922968/229911019-2c640c5a-23df-4901-a6c5-11722c2d5bea.png)
+![image](https://user-images.githubusercontent.com/74922968/229914897-956518d3-a229-4085-966d-85f87b903bbe.png)
 
 The final product was well-received by both wedding venues and musicians, who praised its ease of use and effectiveness in streamlining the booking process. The application has seen significant adoption among its target user base, and has helped to make the process of booking live music for weddings a more enjoyable and seamless experience.
